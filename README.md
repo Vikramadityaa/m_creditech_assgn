@@ -1,6 +1,6 @@
 # Credit Risk Modeling Pipeline
 
-This repository contains an end-to-end pipeline for credit risk modeling using loan application, account, and enquiry data. The process includes data loading, sanity checks, EDA, feature engineering, model training, and predictions.
+This repository contains an end-to-end pipeline for credit risk modeling using account and enquiry data. The process includes data loading, sanity checks, EDA, feature engineering, feature selection (not actively used rn), model training, and predictions.
 
 ---
 
