@@ -69,6 +69,7 @@ This repository contains an end-to-end pipeline for credit risk modeling using a
 - Trained baseline models:
   - LightGBM Classifier
   - CatBoost Classifier
+- Selected the best model based on model fit and performance on the test. LGBM was overfitting and performing relatively worse on test compared to CatBoost, so I went ahead with CatBoost.
 
 ---
 
