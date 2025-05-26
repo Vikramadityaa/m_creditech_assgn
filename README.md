@@ -84,5 +84,8 @@ This repository contains an end-to-end pipeline for credit risk modeling using l
 
 ---
 
-## Folder Structure
+## Further Enhancements
+1. Implement suggestion from feature selection method
+2. Create separate models for enquiry and accounts as accounts data has no entry for test data. Building an ensemble might work better
+3. Enhance feature engineering with more ideas
 
