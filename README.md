@@ -85,7 +85,7 @@ This repository contains an end-to-end pipeline for credit risk modeling using a
 ---
 
 ## Further Enhancements
-1. Implement suggestion from feature selection method
-2. Create separate models for enquiry and accounts as accounts data has no entry for test data. Building an ensemble might work better
-3. Enhance feature engineering with more ideas
+1. Feature Engineering - Implement the suggestion from the feature selection method
+3. Model Architecture - Create separate models for enquiry and accounts as accounts data has no entry for test data. Building an ensemble might work better
+4. Feature Engineering - Create more features given HP tuning is not helping improve model performance
 
